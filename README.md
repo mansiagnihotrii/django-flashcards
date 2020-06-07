@@ -10,7 +10,7 @@ Perform simple calculation game using Flashcards on this website.
 
 ## Watch in action
 
-[Flashcards] (https://pyprogr-flashcards.herokuapp.com/)
+[Flashcards](https://pyprogr-flashcards.herokuapp.com/)
 
 ## Contributing
 
